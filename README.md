@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Phung
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning at University of Vaasa, Finland
